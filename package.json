@@ -1,0 +1,23 @@
+{
+  "name": "taller",
+  "version": "1.0.0",
+  "description": "interview challengues",
+  "main": "index.js",
+  "scripts": {
+    "change": "jest minimumChange.test.js",
+    "squares": "jest squareNumbers.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferdesantiago/taller.git"
+  },
+  "author": "fer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferdesantiago/taller/issues"
+  },
+  "homepage": "https://github.com/ferdesantiago/taller#readme",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
